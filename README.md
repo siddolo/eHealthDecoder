@@ -1,5 +1,6 @@
-# eHealthDecoder
-eHealth EU Digital Green Certificate Decoder
+# eHealth EU Digital Green Certificate Decoder 
+
+Get contents from your greenpass QR Code
 
 
 ## Usage
