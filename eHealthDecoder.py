@@ -1,5 +1,5 @@
 '''
-eHealth EU Digital COVID Certificate Decoder
+eHealth EU Digital Green Certificate Decoder
 
 Pasquale 'sid' Fiorillo
 https://github.com/siddolo/eHealthDecoder

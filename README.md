@@ -1,5 +1,5 @@
 # eHealthDecoder
-eHealth Digital Green Certificates
+eHealth EU Digital Green Certificate Decoder
 
 
 ## Usage
